@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 export default function News(props) {
-    console.log(props)
+    // console.log(props)
   
 
    
@@ -11,7 +11,7 @@ export default function News(props) {
         <>
 
 
-            <div className="col-md-3">
+            {/* <div className="col-md-3">
 
 
 
@@ -34,7 +34,11 @@ export default function News(props) {
 
 
 
-            </div>
+            </div> */}
+
+
+
+            
 
 
 
