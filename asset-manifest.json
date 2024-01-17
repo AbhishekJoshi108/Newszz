@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Newszz/static/css/main.9ceebfe6.css",
+    "main.js": "/Newszz/static/js/main.ae4572d0.js",
+    "index.html": "/Newszz/index.html",
+    "main.9ceebfe6.css.map": "/Newszz/static/css/main.9ceebfe6.css.map",
+    "main.ae4572d0.js.map": "/Newszz/static/js/main.ae4572d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ceebfe6.css",
+    "static/js/main.ae4572d0.js"
+  ]
+}
